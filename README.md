@@ -1,8 +1,8 @@
 # tugas3
 
-Nama    : Kevin Bimo Saputro
+Nama    : Amelia Putri Christanti
 
-NIM     : 123190126
+NIM     : 123190032
 
 Praktikum TPM plug A
 
